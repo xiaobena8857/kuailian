@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="137" height="136" viewBox="0 0 137 136" fill="none">
+  <mask id="path-1-inside-1_63_138065" fill="white">
+    <rect x="30.4094" y="33.873" width="64" height="48" rx="4"/>
+  </mask>
+  <rect x="30.4094" y="33.873" width="64" height="48" rx="4" stroke="#0F3866" stroke-width="10" mask="url(#path-1-inside-1_63_138065)"/>
+  <path d="M50.4094 52.418H74.4094" stroke="#0F3866" stroke-width="5" stroke-linecap="round"/>
+  <path d="M50.4094 63.3301H60.4094" stroke="#0F3866" stroke-width="5" stroke-linecap="round"/>
+  <path d="M62.4094 80.293V89.3652" stroke="#0F3866" stroke-width="5"/>
+  <path d="M44.4094 90.7715H80.4094" stroke="#0F3866" stroke-width="5" stroke-linecap="round"/>
+  <path d="M76.0906 61.873C76.0906 59.6639 77.8814 57.873 80.0906 57.873H105.091C107.3 57.873 109.091 59.6639 109.091 61.873V99.873C109.091 102.082 107.3 103.873 105.091 103.873H80.0906C77.8814 103.873 76.0906 102.082 76.0906 99.873V61.873Z" fill="#1384FF"/>
+  <path d="M85.5496 81.539L89.8906 85.7576L99.6312 75.9863" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
